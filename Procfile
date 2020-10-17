@@ -1,0 +1,1 @@
+web: gunicorn craigslist_ish.wsgi --log-file
